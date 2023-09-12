@@ -14,4 +14,4 @@ You may also see any lint errors in the console.
 
 ## Description
 
-Welcome to my ReactJS project designed to showcase my expertise in building dynamic forms with advanced features such as form input validation, submit handling, and the ability to add or remove form inputs. Leveraging the power of Formik and YUP validation, I've created a versatile form builder that empowers users to create, validate, and submit forms effortlessly.
+Explore my ReactJS project, showcasing dynamic form creation, input validation, submit handling, and the flexibility to add/remove form inputs. Built with Formik and YUP, this user-friendly solution is ideal for crafting custom forms tailored to your needs. Responsive design ensures a seamless experience on any device.
