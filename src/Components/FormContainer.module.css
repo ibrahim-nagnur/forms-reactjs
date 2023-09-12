@@ -1,0 +1,5 @@
+.red {
+    background-color: var(--dark-grey);
+    padding: 1em;
+    border-radius: 8px;
+}
