@@ -1,4 +1,4 @@
-# ReactJS Dynamic Form Builder with Formik and YUP Validation
+# ReactJS Dynamic Forms using Formik and YUP Validation
 
 ## Available Scripts
 
